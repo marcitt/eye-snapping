@@ -84,3 +84,6 @@ After extracting centroids for icons - k-means clustering also works well for se
 - Testing out different matching algorithms beyond SIFT - looking at CNN features could be a place to start.
 
 - Potentially adding smoothing to the eye-snapping application + live labelling
+
+
+DVS
