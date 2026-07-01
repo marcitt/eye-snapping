@@ -1,8 +1,6 @@
 # Eye Snapping
 
-Eye Snapping: a gaze-based selection technique for GUI interaction, inspired by Voice Snapping (Aziz et al.)
-
-Visual Systems Coursework Submission
+Eye Snapping: a gaze-based selection technique for GUI interaction, inspired by Voice Snapping (Aziz et al.), submitted as a part of my Visual Systems Coursework.
 
 ## Project Description
 
