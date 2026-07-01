@@ -1,4 +1,7 @@
-# DVS-Project
+# Eye Snapping
+
+Eye Snapping: a gaze-based selection technique for GUI interaction, inspired by Voice Snapping (Aziz et al.)
+
 Visual Systems Coursework Submission
 
 ## Project Description
